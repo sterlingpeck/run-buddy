@@ -298,9 +298,6 @@ section {
 .contact-info > * {
   flex: 1;
   margin: 15px;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
 }
 
 .contact-info h3 {
